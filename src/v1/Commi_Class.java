@@ -7,6 +7,8 @@ public class Commi_Class {
 
 		
 		System.out.println("Commit 1");
+		
+		System.out.println("commit 2");
 	}
 
 }
